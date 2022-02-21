@@ -7,6 +7,9 @@ const theme = {
     persianGreen: '#06B49A',
     lightBlue: '#AFDBD2',
     onyx: '#36313D',
+    lightGray: '#f9f9f9',
+    primaryColor: '#2667c9',
+    primaryTextColor: '#fff',
   },
   fonts: ['sans-serif', 'Roboto'],
   fontSizes: {
