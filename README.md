@@ -1,4 +1,4 @@
-### Front Pickmeup
+### Pickmeup Test
 
 ## :hammer: Technologies Used
  
@@ -12,7 +12,7 @@
 1. Get the code
 
     ```bash
-    git clone https://github.com/pickmeupng/Pickmeup.git && cd Pickmeup
+    git clone https://github.com/thonyromes/pickmeup-test && cd pickmeup-test
     ```
 
 2. Install dependencies
