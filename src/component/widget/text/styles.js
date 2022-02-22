@@ -1,18 +1,18 @@
 import styled from 'styled-components/native';
 
 export const TextView = styled.Text`
-  color: white;
-  font-size: 20px;
+  color: ${props => props.color || 'white'};
+  font-size: 24px;
 `;
 
 export const H1 = styled(TextView)`
-  font-size: 36px;
+  font-size: 48px;
 `;
 
 export const H2 = styled(TextView)`
-  font-size: 28px;
+  font-size: 36px;
 `;
 
 export const Paragraph = styled(TextView)`
-font-size: 16px;
+  font-size: 16px;
 `;
